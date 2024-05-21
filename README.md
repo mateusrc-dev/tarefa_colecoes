@@ -1,0 +1,1 @@
+# Tarefa do curso desenvolvedor fullstack JAVA onde criamos um array, pegamos nomes do console separados por vírgula, usamos o método split para separar os nomes pela vírgula criando um novo array onde cada nome será um elemento do array, ordenamos os nomes por ordem alfabética e imprimimos o resultado no console.
